@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Test1" section_id="6e460eb697b431100fa55c900153aff3" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity_due</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-25 13:58:47</sys_created_on>
+            <sys_id>4e77423a97b431100fa55c900153af15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test1" display_value="Test1" name="x_58872_needit_needit" sys_domain="global" view="Default view">6e460eb697b431100fa55c900153aff3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-25 13:58:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Test1</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-25 13:53:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e460eb697b431100fa55c900153aff3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_6e460eb697b431100fa55c900153aff3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-25 13:53:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0679179bdb69a91c42b321c405961911</instance_id>
+        <instance_name>dev165857</instance_name>
+        <name>sys_ui_section_6e460eb697b431100fa55c900153aff3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Test1" section_id="6e460eb697b431100fa55c900153aff3" sys_domain="global" table="x_58872_needit_needit" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>activity_due</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-25 13:58:47</sys_created_on><sys_id>4e77423a97b431100fa55c900153af15</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Test1" display_value="Test1" name="x_58872_needit_needit" sys_domain="global" view="Default view">6e460eb697b431100fa55c900153aff3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-25 13:58:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Test1</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-25 13:53:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6e460eb697b431100fa55c900153aff3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_6e460eb697b431100fa55c900153aff3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-25 13:53:38</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-120593695</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>c1ea6432977031100fa55c900153af14</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 13:58:47</sys_created_on>
+        <sys_id>0a77423a97b431100fa55c900153af17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a2cfd88220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 13:58:47</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>ce77423a2db4311003469b264bf4ec16</update_guid>
+        <update_guid_history>ce77423a2db4311003469b264bf4ec16:-120593695,6a464eb6d3b43110950218c2344116bc:442389565</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 14:03:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>01b96088f4c0493aa6ba92f5c3a33504</sys_id>
+        <sys_metadata>6e460eb697b431100fa55c900153aff3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">25baa97e973431100fa55c900153af01</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_6e460eb697b431100fa55c900153aff3</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_6e460eb697b431100fa55c900153aff3">0a77423a97b431100fa55c900153af17</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 14:03:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
